@@ -9,5 +9,5 @@
 
 # AUTHOR 
 >
-👤 **Engr. Caleb Onyedikachi Ugwoke
+👤 Engr. Caleb Onyedikachi Ugwoke
 > calebugwoke@gmail.com
